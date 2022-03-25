@@ -2,7 +2,7 @@
 **Notes** App is simple Note Taking application based on local database application performing CRUD operations.
 
 <p>
-<img src="https://github.com/anandwana001/RoomAccounting/blob/main/screenshots/AndroidAppDarkMode/Screenshot_20220310-181634.png" height=450 width=230 />
+<img src="https://github.com/AdityaShidlyali/NotesApp/blob/main/images/notes_app.jpg" height=450 width=230 />
 </p>
 
 ## Features
