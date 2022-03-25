@@ -1,9 +1,7 @@
 # Notes App
 **Notes** App is simple Note Taking application based on local database application performing CRUD operations.
 
-<p>
 <img src="https://github.com/AdityaShidlyali/NotesApp/blob/main/images/notes_app.jpg" />
-</p>
 
 ## Features
 * User can create and save Notes persistently.
