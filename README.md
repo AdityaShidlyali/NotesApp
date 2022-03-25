@@ -1,4 +1,5 @@
 # Notes App
+---
 **Notes** App is simple Note Taking application based on local database application performing CRUD operations.
 
 <p>
