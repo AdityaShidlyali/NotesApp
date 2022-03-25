@@ -10,7 +10,7 @@
 * User can prioratise their notes.
 * Swipe to delete provides ease of deletion of note.
 
-## Project structure
+## Project structure (MVVM)
 * adapters
 * models
     * db
