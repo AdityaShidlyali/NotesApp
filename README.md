@@ -19,6 +19,8 @@
 * view
 * viewmodels
 
+<img src="https://github.com/AdityaShidlyali/NotesApp/blob/main/images/mvvm.png" />
+
 ## Android with Java
 * Prepopulating the data with Room Database Callbacks, which gives user an overview of the user interface to add notes according to their needs.
 * List Adapter which is subclass of RecyclerView.Adapter provides perfomance improvement features like Diffutil, which populates the only view which is added to the existing list.
