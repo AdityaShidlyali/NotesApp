@@ -7,7 +7,7 @@
 * User can create and save Notes persistently.
 * User can update notes.
 * User can delete completed notes.
-* User can prioratise their notes.
+* User can prioritise their notes.
 * Swipe to delete provides ease of deletion of note.
 
 ## Project structure (MVVM)
